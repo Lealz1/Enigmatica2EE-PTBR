@@ -1,0 +1,3 @@
+version=1.0.0
+download_url=https://github.com/FilipeLeal-PTBR/Enigmatica2EE-PTBR/releases/latest/download/PTBR_Enigmatica2Extended.zip
+changelog=Pacote inicial de traduções PT-BR para Enigmatica 2 Expert Extended. Contém traduções de Botania, Botania Addons, Thermal Foundation, Forestry, Ender IO, AE2 e JEI.
